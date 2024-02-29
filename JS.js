@@ -6,3 +6,11 @@ document.write("boa tarde")
 
 // imprime na console do navegador, na ferramenta
 console.log("boa noite")
+
+const nome = 'Rafael';
+const idade = '24';
+const jogarlol = true;
+
+console.log(nome, 
+    idade, 
+    jogarlol);
